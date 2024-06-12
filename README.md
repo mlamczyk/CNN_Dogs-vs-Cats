@@ -2,6 +2,8 @@
 
 Project description...
 
+Data source (probably): Will Cukierski. (2013). Dogs vs. Cats. Kaggle. https://kaggle.com/competitions/dogs-vs-cats
+
 ## How to run this project
 
 After cloning the repository set up virtual environment and install the necessary requirements:
