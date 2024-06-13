@@ -1,8 +1,10 @@
-# CNN_Dogs-vs-Cats
+# Eigenfaces: Dogs and Cats
 
-Project description...
+Classification of dog and cat faces using the PCA method described by Sirovich and Kirby in the article "Low-dimensional procedure for the characterization of human faces".
 
-Data source (probably): Will Cukierski. (2013). Dogs vs. Cats. Kaggle. https://kaggle.com/competitions/dogs-vs-cats
+Data source: Animal faces dataset (AFHQv2 512×512). Kaggle. \
+https://www.kaggle.com/datasets/dimensi0n/afhq-512?select=cat \
+https://www.kaggle.com/datasets/dimensi0n/afhq-512?select=dog
 
 ## How to run this project
 
